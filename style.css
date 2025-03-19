@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+
+}
+h1{
+    font-family:'Lucida Sanl', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+#letter{
+    font-size: 20px;
+}
+.poster{
+color: white;
+text-align: center;
+width: 50%;
+margin-left: 25%;
+margin-top: 50px;
+}
+
+.meme-img{
+    border: 5px solid white;
+    width: 100%;
+}
